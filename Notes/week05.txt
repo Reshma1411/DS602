@@ -1,0 +1,5 @@
+Homework: x_train' is not defined
+Lab: Visualization code error
+hw: 42
+lab: 80
+
